@@ -1,0 +1,12 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.list {
+  min-height: 55vh;
+}
+
+.list__item {
+  height: 40px;
+}
